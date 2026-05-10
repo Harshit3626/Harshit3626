@@ -67,7 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit3626&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
 
 ## 🔗 Connect with Me
 
