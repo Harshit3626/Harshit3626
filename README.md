@@ -67,8 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit3626&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit3626&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
 ---
 
 ## 🔗 Connect with Me
